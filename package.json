@@ -1,0 +1,24 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Express apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iravishah/express-api.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "apis"
+  ],
+  "author": "Ravi Shah <rvshah1992@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iravishah/express-api/issues"
+  },
+  "homepage": "https://github.com/iravishah/express-api#readme"
+}
